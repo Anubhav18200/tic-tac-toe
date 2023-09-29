@@ -1,6 +1,8 @@
 # Tic Tac Toe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Tic-Tac-Toe game! This classic game is a two-player, turn-based strategy game where the objective is to form a line of three of your symbols (either "X" or "O") on a 3x3 grid.
+
+![Alt text](/Tic-tac-toe.png)
 
 ## Tech Stack
 
